@@ -14,6 +14,7 @@ import android.content.Context;
 /**
  * Created by bulbulkhan on 10/25/2015.
  */
+
 public class BanglaFont_title extends TextView {
     public static Typeface m_typeFace = null;
 
